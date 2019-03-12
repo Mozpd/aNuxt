@@ -36,7 +36,7 @@
         </DropdownMenu>
     </Dropdown>
         <Button target="_blank" to="https://www.iviewui.com/">iView</Button>
-         <nuxt-link to="/001">穿梭狂</nuxt-link>
+         <nuxt-link to="/001">穿梭狂1</nuxt-link>
          <nuxt-link to="/001">于是林------</nuxt-link>
       </div>
     </div>
